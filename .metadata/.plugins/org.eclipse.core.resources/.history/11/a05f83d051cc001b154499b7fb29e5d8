@@ -1,0 +1,9 @@
+package thisex;
+
+public class Namitestjava__1 {
+	public static void main(String[] args) {
+		System.out.println("�׽�Ʈ");
+		//com.nami.test.tech 네이밍
+		
+	}
+}

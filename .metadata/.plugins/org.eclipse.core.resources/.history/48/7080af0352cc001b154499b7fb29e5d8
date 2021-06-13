@@ -1,0 +1,9 @@
+package thisex;
+
+public class Namitestjava__1 {
+	public static void main(String[] args) {
+		System.out.println("ㅎㅇㅇƮ");
+		//com.nami.test.tech 패키지 네이밍 센스있게 하는법
+		
+	}
+}
